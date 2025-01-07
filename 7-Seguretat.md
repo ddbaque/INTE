@@ -115,6 +115,3 @@ Permeten crear connexions segures a través d’Internet per a xarxes corporativ
 - Els tallafocs són essencials per protegir xarxes contra atacs externs.  
 - Els certificats i signatures digitals garanteixen la confiança i autenticitat de les comunicacions.  
 
----
-
-Aquest resum proporciona una visió més detallada dels conceptes clau per preparar-te adequadament per l'examen final. Si necessites més informació sobre algun apartat específic, fes-m’ho saber! 😊
